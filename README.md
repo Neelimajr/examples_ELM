@@ -1,2 +1,3 @@
 # examples_ELM
-basic examples with extreme learning machine
+% Apdullah Yayık, 2018
+% Sine wave prediction example with conventional extreme learning machine
